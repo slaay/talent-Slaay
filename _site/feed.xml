@@ -5,8 +5,8 @@
     <description>Bringing the best of Goan talent to you!</description>
     <link>http://talent.slaaysourcecoders.in/talent/</link>
     <atom:link href="http://talent.slaaysourcecoders.in/talent/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 18 Oct 2016 22:39:45 +0530</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2016 22:39:45 +0530</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2016 23:09:45 +0530</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2016 23:09:45 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -46,6 +46,7 @@ Startup and IT parks are two different things. I hope they realise it. But I am 
 
 &lt;div class=&quot;bs-callout-right bs-callout-success-right&quot;&gt;
   &lt;h4&gt;Do you have any message for the readers of your interview?&lt;/h4&gt;
+   &lt;div class=&quot;quote&quot;&gt;&lt;i class=&quot;fa fa-quote-left fa-4x&quot;&gt;&lt;/i&gt;&lt;/div&gt;
 Even if you are the dumbest in the whole world. You still have a chance. Don&#39;t lose hope.
 
 &lt;/div&gt;
@@ -61,6 +62,14 @@ Even if you are the dumbest in the whole world. You still have a chance. Don&#39
               &lt;span class=&quot;hidden-xs&quot;&gt;&lt;/span&gt;
             &lt;/a&gt;
           &lt;/div&gt;
+
+          &lt;div class=&quot;col-xs-2 col-sm-2&quot;&gt;
+            &lt;a href=&quot;http://in.linkedin.com/in/rahul-verlekar-22359654&quot; class=&quot;btn btn-lg btn-block onl_btn-linkedin&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;LinkedIn&quot;&gt;
+              &lt;i class=&quot;fa fa-linkedin fa-2x&quot;&gt;&lt;/i&gt;
+              &lt;span class=&quot;hidden-xs&quot;&gt;&lt;/span&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+
            &lt;div class=&quot;col-xs-2 col-sm-2&quot;&gt;
             &lt;a href=&quot;https://twitter.com/rahulverlekar&quot; class=&quot;btn btn-lg btn-block onl_btn-twitter&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Twitter&quot;&gt;
               &lt;i class=&quot;fa fa-twitter fa-2x&quot;&gt;&lt;/i&gt;
@@ -75,6 +84,10 @@ Even if you are the dumbest in the whole world. You still have a chance. Don&#39
               &lt;span class=&quot;hidden-xs&quot;&gt;&lt;/span&gt;
             &lt;/a&gt;
           &lt;/div&gt;
+
+
+
+          
     &lt;/div&gt;&lt;br /&gt;
   &lt;/div&gt;
 
@@ -134,26 +147,27 @@ try out the latest release!&lt;/p&gt;
 
 &lt;div class=&quot;bs-callout-right bs-callout-success-right&quot;&gt;
   &lt;h4&gt;What is your biggest achievement yet?&lt;/h4&gt;
-	    &quot;Starting with my College my biggest achievement was winning prizes and recognition for my final year project both at state and national level competitions as well as competition organized by an well established IT company in Goa.
-	After that another achievement was my app Goychim Ferry which was done in coordination with a friend of  mine *&quot;&quot;Velly&quot;&quot;* Velington Afonso which made us shine on the newspaper for some while as well as won us 2nd place for Digital India Week.
-	Last but not the least, getting my interview featured on the slaay source coder is it self an achievement too i believe.&quot;
+	&quot;Starting with my College my biggest achievement was winning prizes and recognition for my final year project both at state and national level competitions as well as competition organized by an well established IT company in Goa.
+
+	After that another achievement was my App Goychim Ferry which was done in coordination with a friend of  mine &lt;b&gt;Velly&lt;/b&gt; Velington Afonso which made us shine on the newspaper for some while as well as won us 2nd place for Digital India Week.
+	Last but not the least, getting my interview featured on the [Slaaysourcecoders](www.slaaysourcecoders.in/works) is it self an achievement too I believe.&quot;
 &lt;/div&gt;
 
 &lt;div class=&quot;bs-callout-left bs-callout-success-left&quot;&gt;
   &lt;h4&gt;What kind of project/app are you working on now?&lt;/h4&gt;
   &quot;Currently working on the windows version on Goychim Ferry. 
-	Beside i also like developing small, simple websites.&quot;
+	Beside I also like developing small, simple websites.&quot;
 &lt;/div&gt;
 
 &lt;div class=&quot;bs-callout-right bs-callout-success-right&quot;&gt;
   &lt;h4&gt;Which is your favorite programming language?&lt;/h4&gt;
-	    When i started programming i started with HTML as my favourite programming language which was when i was in standard 8th. Well it is still one of my favorite language. Later in college C, C++, Java got added to the list of my favourite languages, java being the leader the list. Once i learnt Android it became my most loved language. In between i was very much impressed by a language called Delphi which not many have heard but its one of the best RAD languages for desktop..
+	    When I started programming I started with HTML as my favorite programming language which was when i was in standard 8th. Well it is still one of my favorite language. Later in college C, C++, Java got added to the list of my favorite languages, Java being the leader the list. Once I learnt Android it became my most loved language. In between I was very much impressed by a language called Delphi which not many have heard but its one of the best RAD languages for desktop..
 
 &lt;/div&gt;
 
 &lt;div class=&quot;bs-callout-left bs-callout-success-left&quot;&gt;
   &lt;h4&gt;What do you have to say about the state of IT development in GOA?&lt;/h4&gt;
-&quot;I am concern mainly for 2 reasons...
+&quot;I am concerned mainly for 2 reasons...
 Many colleges have come up which in one way have decreased the quality of engineers who pass out. 
 Good IT education is the foundation for good IT talent to be created in GOA.
 What works in the outside world and what is taught to students is totally different.
@@ -167,12 +181,14 @@ I am hopeful that some day our state will be an hub for IT companies.&quot;
 &lt;div class=&quot;bs-callout-right bs-callout-success-right&quot;&gt;
   &lt;h4&gt;Do you have any message for the readers of your interview?&lt;/h4&gt;
 
-&quot;My only message is to excel learn what is not taught to you...
+  &lt;div class=&quot;quote&quot;&gt;&lt;i class=&quot;fa fa-quote-left fa-4x&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+My only message is to learn what is not taught to you.
 because someday you will realize that you are earning not because of what learnt in college but because of what you learnt besides that which made you different.
 
-Also always follow your passion and inner desire to create and learn new things which can matter the world either in small way or in big way.
+Also always follow your passion and inner desire to create and learn new things which can matter the world either in 
+small way or in big way.
 
-Trust your inner instinct till the last breadth.&quot;
+Trust your inner instinct till the last breadth.
 &lt;/div&gt;
 
 &lt;div class=&quot;container&quot;&gt;
