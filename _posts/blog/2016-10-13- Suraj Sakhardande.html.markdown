@@ -24,7 +24,7 @@ Suraj Gurudas Sakhardande
 <div class="bs-callout-right bs-callout-success-right">
   <h4>What is your biggest achievement yet?</h4>
 	    "Starting with my College my biggest achievement was winning prizes and recognition for my final year project both at state and national level competitions as well as competition organized by an well established IT company in Goa.
-	After that another achievement was my app Goychim Ferry which was done in coordination with a friend of  mine ""Velly"" Velington Afonso which made us shine on the newspaper for some while as well as won us 2nd place for Digital India Week.
+	After that another achievement was my app Goychim Ferry which was done in coordination with a friend of  mine *""Velly""* Velington Afonso which made us shine on the newspaper for some while as well as won us 2nd place for Digital India Week.
 	Last but not the least, getting my interview featured on the slaay source coder is it self an achievement too i believe."
 </div>
 
@@ -79,21 +79,7 @@ Trust your inner instinct till the last breadth."
               <span class="hidden-xs"></span>
             </a>
           </div>
-<!--           <div class="col-xs-2 col-sm-2">
-            <a href="#" class="btn btn-lg btn-block onl_btn-twitter" data-toggle="tooltip" data-placement="top" title="Twitter">
-              <i class="fa fa-twitter fa-2x"></i>
-              <span class="hidden-xs"></span>
-            </a>
-          </div>  
-
-
           <div class="col-xs-2 col-sm-2">
-            <a href="#" class="btn btn-lg btn-block onl_btn-github" data-toggle="tooltip" data-placement="top" title="GitHub">
-              <i class="fa fa-github fa-2x"></i>
-              <span class="hidden-xs"></span>
-            </a>
-          </div> -->
-            <div class="col-xs-2 col-sm-2">
             <a href="https://in.linkedin.com/in/suraj-sakhardande-39907338" class="btn btn-lg btn-block onl_btn-linkedin" data-toggle="tooltip" data-placement="top" title="LinkedIn">
               <i class="fa fa-linkedin fa-2x"></i>
               <span class="hidden-xs"></span>
