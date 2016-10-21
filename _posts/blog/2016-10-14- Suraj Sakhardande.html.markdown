@@ -7,6 +7,7 @@ categories:
 - blog
 - Apps
 - Talent
+- IT-Field
 img: suraj/suraj.jpg
 thumb: yellow-tag-icon.png
 ---
@@ -23,17 +24,19 @@ Suraj Gurudas Sakhardande
 
 <div class="bs-callout-right bs-callout-success-right">
   <h4>What is your biggest achievement yet?</h4>
-	"Starting with my College my biggest achievement was winning prizes and recognition for my final year project both at state and national level competitions as well as competition organized by an well established IT company in Goa.
+	Starting with my College my biggest achievement was winning prizes and recognition for my final year project both at state and national level competitions as well as competition organized by an well established IT company in Goa.
 
 	After that another achievement was my App Goychim Ferry which was done in coordination with a friend of  mine <b>Velly</b> Velington Afonso which made us shine on the newspaper for some while as well as won us 2nd place for Digital India Week.
-	Last but not the least, getting my interview featured on the [Slaaysourcecoders](www.slaaysourcecoders.in/works) is it self an achievement too I believe."
+	Last but not the least, getting my interview featured on the 
+  <a href="http://www.slaaysourcecoders.in/works">Slaaysourcecoders </a>
+   is it self an achievement too I believe.
 </div>
 
 
 <div class="bs-callout-left bs-callout-success-left">
   <h4>What kind of project/app are you working on now?</h4>
-  "Currently working on the windows version on Goychim Ferry. 
-	Beside I also like developing small, simple websites."
+  Currently working on the windows version on Goychim Ferry. 
+	Beside I also like developing small, simple websites.
 </div>
 
 
@@ -45,14 +48,14 @@ Suraj Gurudas Sakhardande
 
 <div class="bs-callout-left bs-callout-success-left">
   <h4>What do you have to say about the state of IT development in GOA?</h4>
-"I am concerned mainly for 2 reasons...
+I am concerned mainly for 2 reasons...
 Many colleges have come up which in one way have decreased the quality of engineers who pass out. 
 Good IT education is the foundation for good IT talent to be created in GOA.
 What works in the outside world and what is taught to students is totally different.
 Our state have many good minds which if not capitalized at right will leave the state in search of opportunities.
 This is the place where govt has to play a role towards which the govt has started moving tiny steps...
 but still more needs to be done then just putting out policies on paper. 
-I am hopeful that some day our state will be an hub for IT companies."
+I am hopeful that some day our state will be an hub for IT companies.
 
 </div>
 
