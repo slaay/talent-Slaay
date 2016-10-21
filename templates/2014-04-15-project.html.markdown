@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "<Project Name>"
+date:   <YYYY-MM-DD>
+author: Presley Dias
+categories:
+- project
+img: <imageName.extension>
+thumb: <imageName.extension>
+carousel:
+- <OwnerFirstName/imageName.extension>
+- <OwnerFirstName/imageName.extension>
+- <OwnerFirstName/imageName.extension>
+tagged: <tag1>, <tag2>, <tagN>
+developer: <FirstName MiddleName LastName>
+website: <APP/URL>
+---
+
+<Project Name>
+--------------
+ <Content>
