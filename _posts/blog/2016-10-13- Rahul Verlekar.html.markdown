@@ -10,6 +10,7 @@ categories:
 - IT-Field
 img: rahul/rahul.jpg
 thumb: red-tag-icon.png
+comments: true
 ---
 
 Rahul Ramesh Verlekar

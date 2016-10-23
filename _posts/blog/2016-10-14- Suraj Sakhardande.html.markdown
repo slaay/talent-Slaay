@@ -10,6 +10,7 @@ categories:
 - IT-Field
 img: suraj/suraj.jpg
 thumb: yellow-tag-icon.png
+comments: true
 ---
 
 Suraj Gurudas Sakhardande

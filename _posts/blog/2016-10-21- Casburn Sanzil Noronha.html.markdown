@@ -9,6 +9,7 @@ categories:
 - IT-Field
 img: casburn/casburn.jpg
 thumb: green-tag-icon.png
+comments: true
 ---
 
 Casburn Sanzil Noronha
