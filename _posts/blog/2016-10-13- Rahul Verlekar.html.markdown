@@ -2,7 +2,7 @@
 layout: post
 title: "Rahul Ramesh Verlekar"
 date: 2016-10-18
-author: Admin
+author: Presley Dias
 categories:
 - blog
 - Apps
@@ -65,21 +65,21 @@ Even if you are the dumbest in the whole world. You still have a chance. Don't l
     <div class="onl_login">
     	<div class="row">
           <div class="col-xs-2 col-sm-2">
-            <a href="https://www.facebook.com/rahulverlekar" class="btn btn-lg btn-block onl_btn-facebook" data-toggle="tooltip" data-placement="top" title="Facebook">
+            <a href="https://www.facebook.com/rahulverlekar" target="_blank" class="btn btn-lg btn-block onl_btn-facebook" data-toggle="tooltip" data-placement="top" title="Facebook">
               <i class="fa fa-facebook fa-2x"></i>
               <span class="hidden-xs"></span>
             </a>
           </div>
 
           <div class="col-xs-2 col-sm-2">
-            <a href="http://in.linkedin.com/in/rahul-verlekar-22359654" class="btn btn-lg btn-block onl_btn-linkedin" data-toggle="tooltip" data-placement="top" title="LinkedIn">
+            <a href="http://in.linkedin.com/in/rahul-verlekar-22359654" target="_blank" class="btn btn-lg btn-block onl_btn-linkedin" data-toggle="tooltip" data-placement="top" title="LinkedIn">
               <i class="fa fa-linkedin fa-2x"></i>
               <span class="hidden-xs"></span>
             </a>
           </div>
 
            <div class="col-xs-2 col-sm-2">
-            <a href="https://twitter.com/rahulverlekar" class="btn btn-lg btn-block onl_btn-twitter" data-toggle="tooltip" data-placement="top" title="Twitter">
+            <a href="https://twitter.com/rahulverlekar" target="_blank" class="btn btn-lg btn-block onl_btn-twitter" data-toggle="tooltip" data-placement="top" title="Twitter">
               <i class="fa fa-twitter fa-2x"></i>
               <span class="hidden-xs"></span>
             </a>
@@ -87,7 +87,7 @@ Even if you are the dumbest in the whole world. You still have a chance. Don't l
 
 
           <div class="col-xs-2 col-sm-2">
-            <a href="https://github.com/RahulVerlekar" class="btn btn-lg btn-block onl_btn-github" data-toggle="tooltip" data-placement="top" title="GitHub">
+            <a href="https://github.com/RahulVerlekar" target="_blank" class="btn btn-lg btn-block onl_btn-github" data-toggle="tooltip" data-placement="top" title="GitHub">
               <i class="fa fa-github fa-2x"></i>
               <span class="hidden-xs"></span>
             </a>

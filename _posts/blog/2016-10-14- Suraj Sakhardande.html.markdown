@@ -2,7 +2,7 @@
 layout: post
 title: "Suraj Sakhardande"
 date: 2016-10-13
-author: Admin
+author: Presley Dias
 categories:
 - blog
 - Apps
@@ -26,7 +26,7 @@ Suraj Gurudas Sakhardande
   <h4>What is your biggest achievement yet?</h4>
 	Starting with my College my biggest achievement was winning prizes and recognition for my final year project both at state and national level competitions as well as competition organized by an well established IT company in Goa.
 
-	After that another achievement was my App Goychim Ferry which was done in coordination with a friend of  mine <b>Velly</b> Velington Afonso which made us shine on the newspaper for some while as well as won us 2nd place for Digital India Week.
+	After that another achievement was my App Goychim Ferry which was done in coordination with a friend of  mine Velington Afonso AKA <b>Velly</b>  which made us shine on the newspaper for some while as well as won us 2nd place for <b>Digital India Week</b>.
 	Last but not the least, getting my interview featured on the 
   <a href="http://www.slaaysourcecoders.in/works">Slaaysourcecoders </a>
    is it self an achievement too I believe.
@@ -80,13 +80,13 @@ Trust your inner instinct till the last breadth.
     <div class="onl_login">
     	<div class="row">
           <div class="col-xs-2 col-sm-2">
-            <a href="http://www.facebook.com/suraj.sakhardande" class="btn btn-lg btn-block onl_btn-facebook" data-toggle="tooltip" data-placement="top" title="Facebook">
+            <a href="http://www.facebook.com/suraj.sakhardande" target="_blank" class="btn btn-lg btn-block onl_btn-facebook" data-toggle="tooltip" data-placement="top" title="Facebook">
               <i class="fa fa-facebook fa-2x"></i>
               <span class="hidden-xs"></span>
             </a>
           </div>
           <div class="col-xs-2 col-sm-2">
-            <a href="https://in.linkedin.com/in/suraj-sakhardande-39907338" class="btn btn-lg btn-block onl_btn-linkedin" data-toggle="tooltip" data-placement="top" title="LinkedIn">
+            <a href="https://in.linkedin.com/in/suraj-sakhardande-39907338" target="_blank" class="btn btn-lg btn-block onl_btn-linkedin" data-toggle="tooltip" data-placement="top" title="LinkedIn">
               <i class="fa fa-linkedin fa-2x"></i>
               <span class="hidden-xs"></span>
             </a>
